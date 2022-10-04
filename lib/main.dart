@@ -53,7 +53,7 @@ class _QuoteListState extends State<QuoteList> {
     return Scaffold(
         backgroundColor: Colors.grey[200],
         appBar: AppBar(
-          title: Text('Awesome Quotes'),
+          title: Text('Some Quotes'),
           centerTitle: true,
           backgroundColor: Colors.black,
         ),
